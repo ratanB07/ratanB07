@@ -1,7 +1,3 @@
-### Hi there 👋
-
-### Hi there 👋
-
 <h1 align="left">Hi 👋, I'm Ratan Biswakarmakar</h1>
 <h3 align="center">Data Scientist </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratanr07" alt="ratanr07" /></a> </p>
