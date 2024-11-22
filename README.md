@@ -32,8 +32,10 @@ I have published a research on newly developed risk measures known as "TVaRD": R
 ![](https://github-readme-stats.vercel.app/api?username=Ratan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AIM-IT4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <img align="left" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><img align="right" alt="Coding" width="450" src="https://github.com/ratanR07/ratanR07/assets/157063244/712370d8-d03a-4d2f-8676-93e29524b071">
 ---
+
 [![](https://visitcount.itsvg.in/api?id=AIM-IT4&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
